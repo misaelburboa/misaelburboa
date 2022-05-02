@@ -7,11 +7,6 @@ Web Developer
 * 🌍  I'm based in Hermosillo, Sonora, Mexico
 * ✉️  You can contact me at [cmburboa@gmail.com](mailto:cmburboa@gmail.com )
 
-<a href="https://www.twitter.com/misaelburboa" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/misaelburboa?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/misaelburboa" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/misaelburboa?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
 
 <p align="left">
@@ -58,3 +53,8 @@ src="https://img.shields.io/github/followers/misaelburboa?logo=github&style=for-
 <a href="http://www.github.com/misaelburboa"><img src="https://activity-graph.herokuapp.com/graph?username=misaelburboa&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/misaelburboa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=misaelburboa&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<a href="https://www.twitter.com/misaelburboa" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/misaelburboa?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a><a href="https://www.github.com/misaelburboa" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/misaelburboa?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
